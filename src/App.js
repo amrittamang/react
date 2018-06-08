@@ -77,7 +77,7 @@ class Welcome extends Component {
         <Grid className="tinted-image">
           <Row className="show-grid">
             <Col xs={12} md={8}>
-              This is not a joke
+              This is a joke
             </Col>
             <Col xs={6} md={4}>
               This is not a joke
