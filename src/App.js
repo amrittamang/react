@@ -35,10 +35,10 @@ class App extends Component {
               </Nav>
               <Nav pullRight>
                 <NavItem eventKey={1} href="#">
-                  Link Right
+                  Account Management
                 </NavItem>
                 <NavItem eventKey={2} href="#">
-                  Link Right
+                  Profile
                 </NavItem>
               </Nav>
             </Navbar.Collapse>
